@@ -1,6 +1,6 @@
 # Laboratorio N°4.2 - Informática II
 # Alumnos: Eberle Javier - Iñiguez Agustin
-# Repositorio: [PEGA AQUÍ TU LINK DE GITHUB]
+# https://github.com/GlobHD/Labo5
 
 import pandas as pd
 import numpy as np
